@@ -1,0 +1,22 @@
+The	DT
+food	NN
+was	VV
+tasty	VR
+.	.
+
+Chinese	JJ
+food	NN
+was	DT
+tasty	AD
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+go	VB
+to	IN
+a	DT
+fancy	JJ
+restaurant	NN
+.	.
